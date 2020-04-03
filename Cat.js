@@ -1,4 +1,5 @@
-function Cat() {
+function Cat(name) {
+	this.name = name,
 	this.type = 'BenGal Cat',
 	this.stomach = []
 }
