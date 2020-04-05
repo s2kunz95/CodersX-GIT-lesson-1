@@ -10,7 +10,6 @@ var dog1 = new cho('Milu');
 var jason = new nguoi('Jason');
 
 //dog1.sayHi();
-cat1.eat(mouse1);
 cat1.eat(mouse2);
 jason.kill(cat1);
 
